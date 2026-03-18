@@ -1,4 +1,4 @@
-![gambar] (https://github.com/user-attachments/assets/501f30d1-17ca-4325-b322-15a75af4dc54)
+![gambar](https://github.com/user-attachments/assets/501f30d1-17ca-4325-b322-15a75af4dc54)
 
 
 # Billions-AI-agent
