@@ -39,4 +39,4 @@ node manualLinkHumanToAgent.js --challenge '{"name":"YOUR_NAME","description":"Y
 
 Tinggal open link yang muncul dan kaitkan ke akun billions kalian
 
-Selamat mengerjakan
+Selamat mengerjakan & Adios
