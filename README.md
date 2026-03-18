@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/501f30d1-17ca-4325-b322-15a75af4dc54
+
+
 # Billions-AI-agent
 
 Untuk mengerjakan task ini anda bisa menggunakan VPS atau https://github.com/codespaces
